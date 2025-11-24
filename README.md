@@ -1,6 +1,6 @@
 # MarvelCard
 
-![Banner](MarvelCardBanner.png)
+![Banner](MarvelCardDemoBanner.png)
 
 Marvel Card Experiment is a UI experiment built entirely in SwiftUI, inspired by Ryan Kopinsky’s video about recreating a Pokémon card using declarative UI. Instead of recreating the same idea, this project takes the concept in a new direction by rebuilding a full Marvel Captain America trading card from scratch, both front and back, using SwiftUI’s drawing and layout tools.
 
